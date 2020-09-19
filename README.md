@@ -9,3 +9,7 @@ Link: https://www.python.org/downloads/
 # Install Pynput
 
 Command line: `pip install pynput`
+
+# Clone this repo
+
+`git clone https://github.com/mellepella/key-logger.git` 
